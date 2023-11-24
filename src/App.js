@@ -1,5 +1,4 @@
 import logo from './logo.svg';
-// import { connect } from 'react-redux';
 import { useDispatch, useSelector } from 'react-redux';
 
 import { increaseCounter } from './redux/actions';
